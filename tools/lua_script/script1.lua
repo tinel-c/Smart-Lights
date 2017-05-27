@@ -2,7 +2,7 @@ ip = wifi.sta.getip()
 print(ip)
 --nil
 wifi.setmode(wifi.STATION)
-wifi.sta.config("Tinel_home_2","[reteaualuitinel]")
+wifi.sta.config("Tinel_home_2","<password>")
 ip = wifi.sta.getip()
 print(ip)
 
