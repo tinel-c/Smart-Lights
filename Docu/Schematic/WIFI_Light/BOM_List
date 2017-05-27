@@ -1,0 +1,45 @@
+Partlist
+
+Exported from WIFI_Light.brd at 5/5/2015 12:07:02 AM
+
+EAGLE Version 7.1.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package              Library        Position (inch)       Orientation
+
+OK1      MOC3043M       DIL06                optocoupler    (1.9 1.3)             R180
+OK2      MOC3043M       DIL06                optocoupler    (1.1 1.3)             R180
+OK3      MOC3043M       DIL06                optocoupler    (0.7 1.3)             R180
+OK4      MOC3043M       DIL06                optocoupler    (1.5 1.3)             R180
+R1       1k             1206                 SparkFun       (0.65 2.75)           R180
+R2       2k             1206                 SparkFun       (0.85 2.7)            R270
+R3       660            1206                 SparkFun       (0.9 2.35)            R270
+R4       660            1206                 SparkFun       (1.95 1.6)            R0
+R5       330            1206                 SparkFun       (1.8 1)               R0
+R6       360            1206                 SparkFun       (2 0.95)              R270
+R7       660            1206                 SparkFun       (1.25 1.6)            R180
+R8       360            1206                 SparkFun       (1.2 0.95)            R270
+R9       330            1206                 SparkFun       (1 1)                 R0
+R10      660            1206                 SparkFun       (0.85 1.6)            R180
+R11      360            1206                 SparkFun       (0.8 0.95)            R270
+R12      330            1206                 SparkFun       (0.55 1)              R0
+R13      660            1206                 SparkFun       (1.55 1.6)            R0
+R14      360            1206                 SparkFun       (1.6 0.95)            R270
+R15      330            1206                 SparkFun       (1.4 1)               R0
+R16      660            1206                 SparkFun       (0.9 2)               R90
+R17      1K             1206                 SparkFun       (0.6 2)               R90
+R18      1K             1206                 SparkFun       (0.75 2)              R90
+S1       219-02         CTS-219-02           switch-dil     (0.65 2.45)           R0
+SV1      RS232          MA03-1               con-lstb       (0.8 2.95)            R0
+TR1      2N6071A/B      TO?225AA             Olimex_ESP8266 (1.75 0.625)          R90
+TR2      2N6071A/B      TO?225AA             Olimex_ESP8266 (0.95 0.625)          R90
+TR3      2N6071A/B      TO?225AA             Olimex_ESP8266 (0.55 0.625)          R90
+TR4      2N6071A/B      TO?225AA             Olimex_ESP8266 (1.35 0.625)          R90
+U$1      ACDC_220V_3V3  ACDC_220V_3V3        Olimex_ESP8266 (2.85 1.825)          R90
+U1       OLIMEX_ESP8266 OLIMEX_ESP8266_DIP22 Olimex_ESP8266 (1.5 2.45)            R180
+X1       BULB1          W237-102             con-wago-500   (1.85 0.35)           R0
+X2       BULB2          W237-102             con-wago-500   (1.05 0.35)           R0
+X3       BULB3          W237-102             con-wago-500   (0.65 0.35)           R0
+X4       BULB4          W237-102             con-wago-500   (1.45 0.35)           R0
+X5       SUPPLY         W237-102             con-wago-500   (2.6 0.35)            R0
